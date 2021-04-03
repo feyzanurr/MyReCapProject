@@ -1,5 +1,4 @@
 ﻿using FluentValidation;
-using ValidationException = FluentValidation.ValidationException;
 
 namespace Core.CrossCuttingConcerns.Validation
 {
